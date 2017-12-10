@@ -1,0 +1,6 @@
+framework module Pods_crushd {
+  umbrella header "Pods-crushd-umbrella.h"
+
+  export *
+  module * { export * }
+}

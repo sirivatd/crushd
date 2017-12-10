@@ -8,12 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		952507831FDDB9C600505E2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952507821FDDB9C600505E2B /* AppDelegate.swift */; };
-		952507851FDDB9C600505E2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952507841FDDB9C600505E2B /* ViewController.swift */; };
+		952507851FDDB9C600505E2B /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952507841FDDB9C600505E2B /* LandingViewController.swift */; };
 		952507881FDDB9C600505E2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952507861FDDB9C600505E2B /* Main.storyboard */; };
 		9525078A1FDDB9C600505E2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952507891FDDB9C600505E2B /* Assets.xcassets */; };
 		9525078D1FDDB9C600505E2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9525078B1FDDB9C600505E2B /* LaunchScreen.storyboard */; };
 		952507981FDDB9C600505E2B /* crushdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952507971FDDB9C600505E2B /* crushdTests.swift */; };
 		952507A31FDDB9C600505E2B /* crushdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952507A21FDDB9C600505E2B /* crushdUITests.swift */; };
+		952507B11FDDB9D200505E2B /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 952507B01FDDB9D200505E2B /* Podfile */; };
+		952507B31FDDBB4300505E2B /* sd_movie.mov in Resources */ = {isa = PBXBuildFile; fileRef = 952507B21FDDBB4300505E2B /* sd_movie.mov */; };
+		B1BE50518BCDEAC1C0C02EFA /* Pods_crushd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E6D7EAFF0954A7A2CF7D8B2 /* Pods_crushd.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E6D7EAFF0954A7A2CF7D8B2 /* Pods_crushd.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_crushd.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B5C8159C38B0A06D62D5C0A /* Pods-crushd.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crushd.release.xcconfig"; path = "Pods/Target Support Files/Pods-crushd/Pods-crushd.release.xcconfig"; sourceTree = "<group>"; };
 		9525077F1FDDB9C600505E2B /* crushd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = crushd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952507821FDDB9C600505E2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		952507841FDDB9C600505E2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		952507841FDDB9C600505E2B /* LandingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingViewController.swift; sourceTree = "<group>"; };
 		952507871FDDB9C600505E2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		952507891FDDB9C600505E2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9525078C1FDDB9C600505E2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +52,9 @@
 		9525079E1FDDB9C600505E2B /* crushdUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = crushdUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		952507A21FDDB9C600505E2B /* crushdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crushdUITests.swift; sourceTree = "<group>"; };
 		952507A41FDDB9C600505E2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		952507B01FDDB9D200505E2B /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		952507B21FDDBB4300505E2B /* sd_movie.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = sd_movie.mov; sourceTree = "<group>"; };
+		E717DCA15E8A8A48357D9078 /* Pods-crushd.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crushd.debug.xcconfig"; path = "Pods/Target Support Files/Pods-crushd/Pods-crushd.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1BE50518BCDEAC1C0C02EFA /* Pods_crushd.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,13 +83,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		917D1704CCF5A5D6AF2225F3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5E6D7EAFF0954A7A2CF7D8B2 /* Pods_crushd.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		952507761FDDB9C600505E2B = {
 			isa = PBXGroup;
 			children = (
+				952507B01FDDB9D200505E2B /* Podfile */,
 				952507811FDDB9C600505E2B /* crushd */,
 				952507961FDDB9C600505E2B /* crushdTests */,
 				952507A11FDDB9C600505E2B /* crushdUITests */,
 				952507801FDDB9C600505E2B /* Products */,
+				A53BA3EB8A016BEC29D62FB0 /* Pods */,
+				917D1704CCF5A5D6AF2225F3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,11 +118,12 @@
 			isa = PBXGroup;
 			children = (
 				952507821FDDB9C600505E2B /* AppDelegate.swift */,
-				952507841FDDB9C600505E2B /* ViewController.swift */,
+				952507841FDDB9C600505E2B /* LandingViewController.swift */,
 				952507861FDDB9C600505E2B /* Main.storyboard */,
 				952507891FDDB9C600505E2B /* Assets.xcassets */,
 				9525078B1FDDB9C600505E2B /* LaunchScreen.storyboard */,
 				9525078E1FDDB9C600505E2B /* Info.plist */,
+				952507B21FDDBB4300505E2B /* sd_movie.mov */,
 			);
 			path = crushd;
 			sourceTree = "<group>";
@@ -125,6 +146,15 @@
 			path = crushdUITests;
 			sourceTree = "<group>";
 		};
+		A53BA3EB8A016BEC29D62FB0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E717DCA15E8A8A48357D9078 /* Pods-crushd.debug.xcconfig */,
+				7B5C8159C38B0A06D62D5C0A /* Pods-crushd.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +162,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 952507A71FDDB9C600505E2B /* Build configuration list for PBXNativeTarget "crushd" */;
 			buildPhases = (
+				91FDA2335F9FC6C0A11EBE25 /* [CP] Check Pods Manifest.lock */,
 				9525077B1FDDB9C600505E2B /* Sources */,
 				9525077C1FDDB9C600505E2B /* Frameworks */,
 				9525077D1FDDB9C600505E2B /* Resources */,
+				F98DC6D0215E6ABFC7E45E83 /* [CP] Embed Pods Frameworks */,
+				6AAB4238DDA628BB7AAD8702 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -234,6 +267,8 @@
 			files = (
 				9525078D1FDDB9C600505E2B /* LaunchScreen.storyboard in Resources */,
 				9525078A1FDDB9C600505E2B /* Assets.xcassets in Resources */,
+				952507B31FDDBB4300505E2B /* sd_movie.mov in Resources */,
+				952507B11FDDB9D200505E2B /* Podfile in Resources */,
 				952507881FDDB9C600505E2B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,12 +289,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6AAB4238DDA628BB7AAD8702 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-crushd/Pods-crushd-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		91FDA2335F9FC6C0A11EBE25 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-crushd-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F98DC6D0215E6ABFC7E45E83 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-crushd/Pods-crushd-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/TTSegmentedControl/TTSegmentedControl.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TTSegmentedControl.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-crushd/Pods-crushd-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		9525077B1FDDB9C600505E2B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				952507851FDDB9C600505E2B /* ViewController.swift in Sources */,
+				952507851FDDB9C600505E2B /* LandingViewController.swift in Sources */,
 				952507831FDDB9C600505E2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +513,7 @@
 		};
 		952507A81FDDB9C600505E2B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E717DCA15E8A8A48357D9078 /* Pods-crushd.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -439,6 +529,7 @@
 		};
 		952507A91FDDB9C600505E2B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B5C8159C38B0A06D62D5C0A /* Pods-crushd.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
