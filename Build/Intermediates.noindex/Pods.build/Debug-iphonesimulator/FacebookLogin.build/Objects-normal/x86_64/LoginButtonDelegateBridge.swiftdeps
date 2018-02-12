@@ -1,0 +1,230 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginButtonDelegateBridge"
+provides-nominal:
+- "13FacebookLogin0B20ButtonDelegateBridgeC"
+provides-member:
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", ""]
+provides-dynamic-lookup:
+- "loginButton"
+- "loginButtonDidLogOut"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Error"
+- "FBSDKLoginButton"
+- "FBSDKLoginButtonDelegate"
+- "FBSDKLoginManagerLoginResult"
+- "LoginButton"
+- "LoginButtonDelegateBridge"
+- !private "LoginResult"
+- "NSObject"
+depends-member:
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["s7CVarArgP", "LoginResult"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "loginButton"]
+- ["s7CVarArgP", "loginButtonDidLogOut"]
+- ["s7CVarArgP", "loginButtonWillLogin"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "LoginResult"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "loginButton"]
+- ["s28CustomDebugStringConvertibleP", "loginButtonDidLogOut"]
+- ["s28CustomDebugStringConvertibleP", "loginButtonWillLogin"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "LoginResult"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "loginButton"]
+- ["s23CustomStringConvertibleP", "loginButtonDidLogOut"]
+- ["s23CustomStringConvertibleP", "loginButtonWillLogin"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "LoginResult"]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "loginButton"]
+- ["s9EquatableP", "loginButtonDidLogOut"]
+- ["s9EquatableP", "loginButtonWillLogin"]
+- ["s9EquatableP", ""]
+- !private ["So11FBSDKButtonC", "delegate"]
+- !private ["So16FBSDKLoginButtonC", "delegate"]
+- !private ["So24FBSDKLoginButtonDelegateP", "LoginResult"]
+- ["So24FBSDKLoginButtonDelegateP", "loginButton"]
+- ["So24FBSDKLoginButtonDelegateP", "loginButtonDidLogOut"]
+- ["So24FBSDKLoginButtonDelegateP", "loginButtonWillLogin"]
+- ["So24FBSDKLoginButtonDelegateP", ""]
+- !private ["s8HashableP", "LoginResult"]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "loginButton"]
+- ["s8HashableP", "loginButtonDidLogOut"]
+- ["s8HashableP", "loginButtonWillLogin"]
+- ["s8HashableP", ""]
+- !private ["13FacebookLogin0B6ButtonC", "delegate"]
+- !private ["13FacebookLogin0B14ButtonDelegateP", "loginButtonDidCompleteLogin"]
+- !private ["13FacebookLogin0B14ButtonDelegateP", "loginButtonDidLogOut"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "Error"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "FBSDKLoginButton"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "FBSDKLoginManagerLoginResult"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "LoginButton"]
+- !private ["13FacebookLogin0B20ButtonDelegateBridgeC", "LoginResult"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "deinit"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "init"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "loginButton"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "loginButtonDidLogOut"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "loginButtonWillLogin"]
+- ["13FacebookLogin0B20ButtonDelegateBridgeC", "setupAsDelegateFor"]
+- !private ["13FacebookLogin0B6ResultO", "init"]
+- !private ["So8NSCodingP", "delegate"]
+- ["So8NSObjectC", "Error"]
+- ["So8NSObjectC", "FBSDKLoginButton"]
+- ["So8NSObjectC", "FBSDKLoginManagerLoginResult"]
+- ["So8NSObjectC", "LoginButton"]
+- !private ["So8NSObjectC", "LoginResult"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "loginButton"]
+- ["So8NSObjectC", "loginButtonDidLogOut"]
+- ["So8NSObjectC", "loginButtonWillLogin"]
+- ["So8NSObjectC", "setupAsDelegateFor"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "LoginResult"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "loginButton"]
+- ["So16NSObjectProtocolP", "loginButtonDidLogOut"]
+- ["So16NSObjectProtocolP", "loginButtonWillLogin"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So8UIButtonC", "delegate"]
+- !private ["So9UIControlC", "delegate"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So6UIViewC", "delegate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LoginResult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loginButton"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loginButtonDidLogOut"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loginButtonWillLogin"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- !private "So11FBSDKButtonC"
+- !private "So16FBSDKLoginButtonC"
+- "So24FBSDKLoginButtonDelegateP"
+- "s8HashableP"
+- !private "13FacebookLogin0B6ButtonC"
+- !private "13FacebookLogin0B14ButtonDelegateP"
+- "13FacebookLogin0B20ButtonDelegateBridgeC"
+- !private "13FacebookLogin0B6ResultO"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/FacebookCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookLogin/FacebookLogin-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFGeneric.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookLogin.build/unextended-module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookCore.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+interface-hash: "e18504edbd032e1c529e8d4a106d5bbc"

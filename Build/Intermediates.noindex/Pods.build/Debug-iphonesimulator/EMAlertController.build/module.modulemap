@@ -1,0 +1,11 @@
+framework module EMAlertController {
+  umbrella header "EMAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module EMAlertController.Swift {
+    header "EMAlertController-Swift.h"
+    requires objc
+}

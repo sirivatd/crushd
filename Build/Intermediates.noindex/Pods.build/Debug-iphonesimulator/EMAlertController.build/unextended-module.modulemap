@@ -1,0 +1,10 @@
+framework module EMAlertController {
+  umbrella header "EMAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module EMAlertController.__Swift {
+    exclude header "EMAlertController-Swift.h"
+}

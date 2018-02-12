@@ -1,0 +1,433 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AccessToken"
+provides-nominal:
+- "12FacebookCore11AccessTokenV"
+provides-member:
+- ["12FacebookCore11AccessTokenV", ""]
+- ["12FacebookCore11AccessTokenV", "current"]
+- ["12FacebookCore11AccessTokenV", "refreshCurrentToken"]
+- ["12FacebookCore11AccessTokenV", "init"]
+- ["12FacebookCore11AccessTokenV", "sdkAccessTokenRepresentation"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AccessToken"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Date"
+- "Error"
+- "FBSDKAccessToken"
+- "Permission"
+- !private "SDKSettings"
+- "Set"
+- "String"
+- "Void"
+depends-member:
+- ["12FacebookCore11AccessTokenV", "AccessToken"]
+- ["12FacebookCore11AccessTokenV", "Date"]
+- ["12FacebookCore11AccessTokenV", "Error"]
+- ["12FacebookCore11AccessTokenV", "FBSDKAccessToken"]
+- ["12FacebookCore11AccessTokenV", "Permission"]
+- !private ["12FacebookCore11AccessTokenV", "SDKSettings"]
+- ["12FacebookCore11AccessTokenV", "Set"]
+- ["12FacebookCore11AccessTokenV", "String"]
+- ["12FacebookCore11AccessTokenV", "Void"]
+- ["12FacebookCore11AccessTokenV", "appId"]
+- ["12FacebookCore11AccessTokenV", "authenticationToken"]
+- ["12FacebookCore11AccessTokenV", "current"]
+- ["12FacebookCore11AccessTokenV", "declinedPermissions"]
+- ["12FacebookCore11AccessTokenV", "expirationDate"]
+- ["12FacebookCore11AccessTokenV", "grantedPermissions"]
+- ["12FacebookCore11AccessTokenV", "init"]
+- ["12FacebookCore11AccessTokenV", "refreshCurrentToken"]
+- ["12FacebookCore11AccessTokenV", "refreshDate"]
+- ["12FacebookCore11AccessTokenV", "sdkAccessTokenRepresentation"]
+- ["12FacebookCore11AccessTokenV", "userId"]
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s7CVarArgP", "Permission"]
+- !private ["s7CVarArgP", "Set"]
+- !private ["s7CVarArgP", "appID"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "declinedPermissions"]
+- !private ["s7CVarArgP", "declinedSwiftPermissions"]
+- !private ["s7CVarArgP", "expirationDate"]
+- !private ["s7CVarArgP", "flatMap"]
+- !private ["s7CVarArgP", "grantedSwiftPermissions"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "permissions"]
+- !private ["s7CVarArgP", "refreshCurrentAccessToken"]
+- !private ["s7CVarArgP", "refreshDate"]
+- !private ["s7CVarArgP", "setCurrent"]
+- !private ["s7CVarArgP", "tokenString"]
+- !private ["s7CVarArgP", "userID"]
+- !private ["s10CollectionP", "flatMap"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "map"]
+- !private ["s10ComparableP", "distantFuture"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Permission"]
+- !private ["s28CustomDebugStringConvertibleP", "Set"]
+- !private ["s28CustomDebugStringConvertibleP", "appID"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "declinedPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "declinedSwiftPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "distantFuture"]
+- !private ["s28CustomDebugStringConvertibleP", "expirationDate"]
+- !private ["s28CustomDebugStringConvertibleP", "flatMap"]
+- !private ["s28CustomDebugStringConvertibleP", "grantedSwiftPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "permissions"]
+- !private ["s28CustomDebugStringConvertibleP", "refreshCurrentAccessToken"]
+- !private ["s28CustomDebugStringConvertibleP", "refreshDate"]
+- !private ["s28CustomDebugStringConvertibleP", "setCurrent"]
+- !private ["s28CustomDebugStringConvertibleP", "tokenString"]
+- !private ["s28CustomDebugStringConvertibleP", "userID"]
+- !private ["s29CustomPlaygroundQuickLookableP", "distantFuture"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "distantFuture"]
+- !private ["s17CustomReflectableP", "flatMap"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "Permission"]
+- !private ["s23CustomStringConvertibleP", "Set"]
+- !private ["s23CustomStringConvertibleP", "appID"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "declinedPermissions"]
+- !private ["s23CustomStringConvertibleP", "declinedSwiftPermissions"]
+- !private ["s23CustomStringConvertibleP", "distantFuture"]
+- !private ["s23CustomStringConvertibleP", "expirationDate"]
+- !private ["s23CustomStringConvertibleP", "flatMap"]
+- !private ["s23CustomStringConvertibleP", "grantedSwiftPermissions"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "permissions"]
+- !private ["s23CustomStringConvertibleP", "refreshCurrentAccessToken"]
+- !private ["s23CustomStringConvertibleP", "refreshDate"]
+- !private ["s23CustomStringConvertibleP", "setCurrent"]
+- !private ["s23CustomStringConvertibleP", "tokenString"]
+- !private ["s23CustomStringConvertibleP", "userID"]
+- !private ["10Foundation4DateV", "distantFuture"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["s9DecodableP", "distantFuture"]
+- !private ["s9DecodableP", "flatMap"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9EncodableP", "distantFuture"]
+- !private ["s9EncodableP", "flatMap"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EquatableP", "Permission"]
+- !private ["s9EquatableP", "Set"]
+- !private ["s9EquatableP", "appID"]
+- !private ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "declinedPermissions"]
+- !private ["s9EquatableP", "declinedSwiftPermissions"]
+- !private ["s9EquatableP", "distantFuture"]
+- !private ["s9EquatableP", "expirationDate"]
+- !private ["s9EquatableP", "flatMap"]
+- !private ["s9EquatableP", "grantedSwiftPermissions"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "map"]
+- !private ["s9EquatableP", "name"]
+- !private ["s9EquatableP", "permissions"]
+- !private ["s9EquatableP", "refreshCurrentAccessToken"]
+- !private ["s9EquatableP", "refreshDate"]
+- !private ["s9EquatableP", "setCurrent"]
+- !private ["s9EquatableP", "tokenString"]
+- !private ["s9EquatableP", "userID"]
+- !private ["s25ExpressibleByArrayLiteralP", "flatMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "name"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "name"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "name"]
+- !private ["So16FBSDKAccessTokenC", "Permission"]
+- !private ["So16FBSDKAccessTokenC", "Set"]
+- !private ["So16FBSDKAccessTokenC", "String"]
+- !private ["So16FBSDKAccessTokenC", "appID"]
+- !private ["So16FBSDKAccessTokenC", "current"]
+- !private ["So16FBSDKAccessTokenC", "declinedPermissions"]
+- !private ["So16FBSDKAccessTokenC", "declinedSwiftPermissions"]
+- !private ["So16FBSDKAccessTokenC", "expirationDate"]
+- !private ["So16FBSDKAccessTokenC", "grantedSwiftPermissions"]
+- !private ["So16FBSDKAccessTokenC", "init"]
+- !private ["So16FBSDKAccessTokenC", "permissions"]
+- !private ["So16FBSDKAccessTokenC", "refreshCurrentAccessToken"]
+- !private ["So16FBSDKAccessTokenC", "refreshDate"]
+- !private ["So16FBSDKAccessTokenC", "setCurrent"]
+- !private ["So16FBSDKAccessTokenC", "tokenString"]
+- !private ["So16FBSDKAccessTokenC", "userID"]
+- !private ["So12FBSDKCopyingP", "Permission"]
+- !private ["So12FBSDKCopyingP", "Set"]
+- !private ["So12FBSDKCopyingP", "appID"]
+- !private ["So12FBSDKCopyingP", "current"]
+- !private ["So12FBSDKCopyingP", "declinedPermissions"]
+- !private ["So12FBSDKCopyingP", "declinedSwiftPermissions"]
+- !private ["So12FBSDKCopyingP", "expirationDate"]
+- !private ["So12FBSDKCopyingP", "grantedSwiftPermissions"]
+- !private ["So12FBSDKCopyingP", "init"]
+- !private ["So12FBSDKCopyingP", "permissions"]
+- !private ["So12FBSDKCopyingP", "refreshCurrentAccessToken"]
+- !private ["So12FBSDKCopyingP", "refreshDate"]
+- !private ["So12FBSDKCopyingP", "setCurrent"]
+- !private ["So12FBSDKCopyingP", "tokenString"]
+- !private ["So12FBSDKCopyingP", "userID"]
+- !private ["s8HashableP", "Permission"]
+- !private ["s8HashableP", "Set"]
+- !private ["s8HashableP", "appID"]
+- !private ["s8HashableP", "current"]
+- !private ["s8HashableP", "declinedPermissions"]
+- !private ["s8HashableP", "declinedSwiftPermissions"]
+- !private ["s8HashableP", "distantFuture"]
+- !private ["s8HashableP", "expirationDate"]
+- !private ["s8HashableP", "flatMap"]
+- !private ["s8HashableP", "grantedSwiftPermissions"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "map"]
+- !private ["s8HashableP", "name"]
+- !private ["s8HashableP", "permissions"]
+- !private ["s8HashableP", "refreshCurrentAccessToken"]
+- !private ["s8HashableP", "refreshDate"]
+- !private ["s8HashableP", "setCurrent"]
+- !private ["s8HashableP", "tokenString"]
+- !private ["s8HashableP", "userID"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["So8NSCodingP", "Permission"]
+- !private ["So8NSCodingP", "Set"]
+- !private ["So8NSCodingP", "appID"]
+- !private ["So8NSCodingP", "current"]
+- !private ["So8NSCodingP", "declinedPermissions"]
+- !private ["So8NSCodingP", "declinedSwiftPermissions"]
+- !private ["So8NSCodingP", "expirationDate"]
+- !private ["So8NSCodingP", "grantedSwiftPermissions"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "permissions"]
+- !private ["So8NSCodingP", "refreshCurrentAccessToken"]
+- !private ["So8NSCodingP", "refreshDate"]
+- !private ["So8NSCodingP", "setCurrent"]
+- !private ["So8NSCodingP", "tokenString"]
+- !private ["So8NSCodingP", "userID"]
+- !private ["So9NSCopyingP", "Permission"]
+- !private ["So9NSCopyingP", "Set"]
+- !private ["So9NSCopyingP", "appID"]
+- !private ["So9NSCopyingP", "current"]
+- !private ["So9NSCopyingP", "declinedPermissions"]
+- !private ["So9NSCopyingP", "declinedSwiftPermissions"]
+- !private ["So9NSCopyingP", "expirationDate"]
+- !private ["So9NSCopyingP", "grantedSwiftPermissions"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "permissions"]
+- !private ["So9NSCopyingP", "refreshCurrentAccessToken"]
+- !private ["So9NSCopyingP", "refreshDate"]
+- !private ["So9NSCopyingP", "setCurrent"]
+- !private ["So9NSCopyingP", "tokenString"]
+- !private ["So9NSCopyingP", "userID"]
+- !private ["So8NSObjectC", "Permission"]
+- !private ["So8NSObjectC", "Set"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "appID"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "declinedPermissions"]
+- !private ["So8NSObjectC", "declinedSwiftPermissions"]
+- !private ["So8NSObjectC", "expirationDate"]
+- !private ["So8NSObjectC", "grantedSwiftPermissions"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "permissions"]
+- !private ["So8NSObjectC", "refreshCurrentAccessToken"]
+- !private ["So8NSObjectC", "refreshDate"]
+- !private ["So8NSObjectC", "setCurrent"]
+- !private ["So8NSObjectC", "tokenString"]
+- !private ["So8NSObjectC", "userID"]
+- !private ["So16NSObjectProtocolP", "Permission"]
+- !private ["So16NSObjectProtocolP", "Set"]
+- !private ["So16NSObjectProtocolP", "appID"]
+- !private ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "declinedPermissions"]
+- !private ["So16NSObjectProtocolP", "declinedSwiftPermissions"]
+- !private ["So16NSObjectProtocolP", "expirationDate"]
+- !private ["So16NSObjectProtocolP", "grantedSwiftPermissions"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "permissions"]
+- !private ["So16NSObjectProtocolP", "refreshCurrentAccessToken"]
+- !private ["So16NSObjectProtocolP", "refreshDate"]
+- !private ["So16NSObjectProtocolP", "setCurrent"]
+- !private ["So16NSObjectProtocolP", "tokenString"]
+- !private ["So16NSObjectProtocolP", "userID"]
+- !private ["So14NSSecureCodingP", "Permission"]
+- !private ["So14NSSecureCodingP", "Set"]
+- !private ["So14NSSecureCodingP", "appID"]
+- !private ["So14NSSecureCodingP", "current"]
+- !private ["So14NSSecureCodingP", "declinedPermissions"]
+- !private ["So14NSSecureCodingP", "declinedSwiftPermissions"]
+- !private ["So14NSSecureCodingP", "expirationDate"]
+- !private ["So14NSSecureCodingP", "grantedSwiftPermissions"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "permissions"]
+- !private ["So14NSSecureCodingP", "refreshCurrentAccessToken"]
+- !private ["So14NSSecureCodingP", "refreshDate"]
+- !private ["So14NSSecureCodingP", "setCurrent"]
+- !private ["So14NSSecureCodingP", "tokenString"]
+- !private ["So14NSSecureCodingP", "userID"]
+- !private ["Sq", "map"]
+- ["12FacebookCore10PermissionV", "deinit"]
+- !private ["12FacebookCore10PermissionV", "init"]
+- !private ["12FacebookCore10PermissionV", "name"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["10Foundation20ReferenceConvertibleP", "distantFuture"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["12FacebookCore11SDKSettingsV", "appId"]
+- !private ["s8SequenceP", "flatMap"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "map"]
+- !private ["s3SetV", "flatMap"]
+- !private ["s3SetV", "init"]
+- !private ["s3SetV", "map"]
+- !private ["s10SetAlgebraP", "flatMap"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "map"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s10_IndexableP", "flatMap"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s14_IndexableBaseP", "flatMap"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Permission"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Set"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "declinedPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "declinedSwiftPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "expirationDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "grantedSwiftPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "permissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "refreshCurrentAccessToken"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "refreshDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setCurrent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tokenString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userID"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "distantFuture"]
+- !private ["s21_ObjectiveCBridgeableP", "flatMap"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+depends-nominal:
+- "12FacebookCore11AccessTokenV"
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So16FBSDKAccessTokenC"
+- !private "So12FBSDKCopyingP"
+- !private "s8HashableP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- "12FacebookCore10PermissionV"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "12FacebookCore11SDKSettingsV"
+- !private "s8SequenceP"
+- !private "s3SetV"
+- !private "s10SetAlgebraP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFGeneric.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookCore.build/unextended-module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+interface-hash: "1b2fdf81d2c1deebaeb8a42258fabf09"

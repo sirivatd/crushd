@@ -1,0 +1,11 @@
+framework module SpinnerActivityIndicator {
+  umbrella header "SpinnerActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SpinnerActivityIndicator.Swift {
+    header "SpinnerActivityIndicator-Swift.h"
+    requires objc
+}

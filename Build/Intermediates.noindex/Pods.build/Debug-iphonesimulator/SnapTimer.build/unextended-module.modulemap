@@ -1,0 +1,10 @@
+framework module SnapTimer {
+  umbrella header "SnapTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SnapTimer.__Swift {
+    exclude header "SnapTimer-Swift.h"
+}

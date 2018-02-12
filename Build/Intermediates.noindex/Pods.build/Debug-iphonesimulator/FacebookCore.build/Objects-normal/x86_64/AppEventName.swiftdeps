@@ -1,0 +1,506 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppEventName"
+- "=="
+provides-nominal:
+- "12FacebookCore12AppEventNameO"
+provides-member:
+- ["12FacebookCore12AppEventNameO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AppEventName"
+- "AssignmentPrecedence"
+- "Bool"
+- "CustomStringConvertible"
+- "ExpressibleByStringLiteral"
+- !private "FBSDKAppEventNameAchievedLevel"
+- !private "FBSDKAppEventNameAddedPaymentInfo"
+- !private "FBSDKAppEventNameAddedToCart"
+- !private "FBSDKAppEventNameAddedToWishlist"
+- !private "FBSDKAppEventNameCompletedRegistration"
+- !private "FBSDKAppEventNameCompletedTutorial"
+- !private "FBSDKAppEventNameInitiatedCheckout"
+- !private "FBSDKAppEventNameRated"
+- !private "FBSDKAppEventNameSearched"
+- !private "FBSDKAppEventNameSpentCredits"
+- !private "FBSDKAppEventNameUnlockedAchievement"
+- !private "FBSDKAppEventNameViewedContent"
+- "Hashable"
+- "Int"
+- "RawRepresentable"
+- "String"
+- "StringLiteralType"
+depends-member:
+- ["12FacebookCore12AppEventNameO", "=="]
+- ["12FacebookCore12AppEventNameO", "AppEventName"]
+- ["12FacebookCore12AppEventNameO", "Bool"]
+- ["12FacebookCore12AppEventNameO", "ExtendedGraphemeClusterLiteralType"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameAchievedLevel"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameAddedToCart"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameRated"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameSearched"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameSpentCredits"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["12FacebookCore12AppEventNameO", "FBSDKAppEventNameViewedContent"]
+- ["12FacebookCore12AppEventNameO", "Int"]
+- ["12FacebookCore12AppEventNameO", "RawValue"]
+- ["12FacebookCore12AppEventNameO", "String"]
+- ["12FacebookCore12AppEventNameO", "StringLiteralType"]
+- ["12FacebookCore12AppEventNameO", "UnicodeScalarLiteralType"]
+- ["12FacebookCore12AppEventNameO", "achievedLevel"]
+- ["12FacebookCore12AppEventNameO", "addedPaymentInfo"]
+- ["12FacebookCore12AppEventNameO", "addedToCart"]
+- ["12FacebookCore12AppEventNameO", "addedToWishlist"]
+- ["12FacebookCore12AppEventNameO", "completedRegistration"]
+- ["12FacebookCore12AppEventNameO", "completedTutorial"]
+- ["12FacebookCore12AppEventNameO", "custom"]
+- ["12FacebookCore12AppEventNameO", "deinit"]
+- ["12FacebookCore12AppEventNameO", "description"]
+- ["12FacebookCore12AppEventNameO", "hashValue"]
+- ["12FacebookCore12AppEventNameO", "init"]
+- ["12FacebookCore12AppEventNameO", "initiatedCheckout"]
+- ["12FacebookCore12AppEventNameO", "purchased"]
+- ["12FacebookCore12AppEventNameO", "rated"]
+- ["12FacebookCore12AppEventNameO", "rawValue"]
+- ["12FacebookCore12AppEventNameO", "searched"]
+- ["12FacebookCore12AppEventNameO", "spentCredits"]
+- ["12FacebookCore12AppEventNameO", "unlockedAchievement"]
+- ["12FacebookCore12AppEventNameO", "viewedContent"]
+- !private ["12FacebookCore26AppEventParameterValueTypeP", "hashValue"]
+- !private ["12FacebookCore26AppEventParameterValueTypeP", "init"]
+- !private ["s23BidirectionalCollectionP", "hashValue"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "hashValue"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameRated"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameSearched"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s23CustomStringConvertibleP", "FBSDKAppEventNameViewedContent"]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", "StringLiteralType"]
+- ["s23CustomStringConvertibleP", "UnicodeScalarLiteralType"]
+- ["s23CustomStringConvertibleP", "achievedLevel"]
+- ["s23CustomStringConvertibleP", "addedPaymentInfo"]
+- ["s23CustomStringConvertibleP", "addedToCart"]
+- ["s23CustomStringConvertibleP", "addedToWishlist"]
+- ["s23CustomStringConvertibleP", "completedRegistration"]
+- ["s23CustomStringConvertibleP", "completedTutorial"]
+- ["s23CustomStringConvertibleP", "custom"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "initiatedCheckout"]
+- ["s23CustomStringConvertibleP", "purchased"]
+- ["s23CustomStringConvertibleP", "rated"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "searched"]
+- ["s23CustomStringConvertibleP", "spentCredits"]
+- ["s23CustomStringConvertibleP", "unlockedAchievement"]
+- ["s23CustomStringConvertibleP", "viewedContent"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "hashValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EncodableP", "init"]
+- ["s9EquatableP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s9EquatableP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s9EquatableP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s9EquatableP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s9EquatableP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s9EquatableP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s9EquatableP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s9EquatableP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s9EquatableP", "FBSDKAppEventNameRated"]
+- !private ["s9EquatableP", "FBSDKAppEventNameSearched"]
+- !private ["s9EquatableP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s9EquatableP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s9EquatableP", "FBSDKAppEventNameViewedContent"]
+- ["s9EquatableP", "RawValue"]
+- ["s9EquatableP", "StringLiteralType"]
+- ["s9EquatableP", "UnicodeScalarLiteralType"]
+- ["s9EquatableP", "achievedLevel"]
+- ["s9EquatableP", "addedPaymentInfo"]
+- ["s9EquatableP", "addedToCart"]
+- ["s9EquatableP", "addedToWishlist"]
+- ["s9EquatableP", "completedRegistration"]
+- ["s9EquatableP", "completedTutorial"]
+- ["s9EquatableP", "custom"]
+- ["s9EquatableP", "description"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "initiatedCheckout"]
+- ["s9EquatableP", "purchased"]
+- ["s9EquatableP", "rated"]
+- ["s9EquatableP", "rawValue"]
+- ["s9EquatableP", "searched"]
+- ["s9EquatableP", "spentCredits"]
+- ["s9EquatableP", "unlockedAchievement"]
+- ["s9EquatableP", "viewedContent"]
+- ["s9EquatableP", ""]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameRated"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameSearched"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "FBSDKAppEventNameViewedContent"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "RawValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringLiteralType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "UnicodeScalarLiteralType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "achievedLevel"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addedPaymentInfo"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addedToCart"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addedToWishlist"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "completedRegistration"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "completedTutorial"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "custom"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "description"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hashValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "initiatedCheckout"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "purchased"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "rated"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "rawValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "searched"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "spentCredits"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "unlockedAchievement"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "viewedContent"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s26ExpressibleByStringLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameRated"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameSearched"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s26ExpressibleByStringLiteralP", "FBSDKAppEventNameViewedContent"]
+- ["s26ExpressibleByStringLiteralP", "RawValue"]
+- ["s26ExpressibleByStringLiteralP", "StringLiteralType"]
+- ["s26ExpressibleByStringLiteralP", "UnicodeScalarLiteralType"]
+- ["s26ExpressibleByStringLiteralP", "achievedLevel"]
+- ["s26ExpressibleByStringLiteralP", "addedPaymentInfo"]
+- ["s26ExpressibleByStringLiteralP", "addedToCart"]
+- ["s26ExpressibleByStringLiteralP", "addedToWishlist"]
+- ["s26ExpressibleByStringLiteralP", "completedRegistration"]
+- ["s26ExpressibleByStringLiteralP", "completedTutorial"]
+- ["s26ExpressibleByStringLiteralP", "custom"]
+- ["s26ExpressibleByStringLiteralP", "description"]
+- ["s26ExpressibleByStringLiteralP", "hashValue"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "initiatedCheckout"]
+- ["s26ExpressibleByStringLiteralP", "purchased"]
+- ["s26ExpressibleByStringLiteralP", "rated"]
+- ["s26ExpressibleByStringLiteralP", "rawValue"]
+- ["s26ExpressibleByStringLiteralP", "searched"]
+- ["s26ExpressibleByStringLiteralP", "spentCredits"]
+- ["s26ExpressibleByStringLiteralP", "unlockedAchievement"]
+- ["s26ExpressibleByStringLiteralP", "viewedContent"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameRated"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameSearched"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "FBSDKAppEventNameViewedContent"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "RawValue"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "StringLiteralType"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "UnicodeScalarLiteralType"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "achievedLevel"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "addedPaymentInfo"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "addedToCart"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "addedToWishlist"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "completedRegistration"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "completedTutorial"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "custom"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "description"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "hashValue"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "initiatedCheckout"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "purchased"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "rated"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "rawValue"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "searched"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "spentCredits"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "unlockedAchievement"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "viewedContent"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["s8HashableP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s8HashableP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s8HashableP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s8HashableP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s8HashableP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s8HashableP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s8HashableP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s8HashableP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s8HashableP", "FBSDKAppEventNameRated"]
+- !private ["s8HashableP", "FBSDKAppEventNameSearched"]
+- !private ["s8HashableP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s8HashableP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s8HashableP", "FBSDKAppEventNameViewedContent"]
+- ["s8HashableP", "RawValue"]
+- ["s8HashableP", "StringLiteralType"]
+- ["s8HashableP", "UnicodeScalarLiteralType"]
+- ["s8HashableP", "achievedLevel"]
+- ["s8HashableP", "addedPaymentInfo"]
+- ["s8HashableP", "addedToCart"]
+- ["s8HashableP", "addedToWishlist"]
+- ["s8HashableP", "completedRegistration"]
+- ["s8HashableP", "completedTutorial"]
+- ["s8HashableP", "custom"]
+- ["s8HashableP", "description"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "initiatedCheckout"]
+- ["s8HashableP", "purchased"]
+- ["s8HashableP", "rated"]
+- ["s8HashableP", "rawValue"]
+- ["s8HashableP", "searched"]
+- ["s8HashableP", "spentCredits"]
+- ["s8HashableP", "unlockedAchievement"]
+- ["s8HashableP", "viewedContent"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "hashValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "hashValue"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "hashValue"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "hashValue"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "hashValue"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "hashValue"]
+- !private ["So16NSObjectProtocolP", "hashValue"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "hashValue"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "hashValue"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "hashValue"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameAchievedLevel"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameAddedPaymentInfo"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameAddedToCart"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameAddedToWishlist"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameCompletedRegistration"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameCompletedTutorial"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameInitiatedCheckout"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameRated"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameSearched"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameSpentCredits"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameUnlockedAchievement"]
+- !private ["s16RawRepresentableP", "FBSDKAppEventNameViewedContent"]
+- ["s16RawRepresentableP", "RawValue"]
+- ["s16RawRepresentableP", "StringLiteralType"]
+- ["s16RawRepresentableP", "UnicodeScalarLiteralType"]
+- ["s16RawRepresentableP", "achievedLevel"]
+- ["s16RawRepresentableP", "addedPaymentInfo"]
+- ["s16RawRepresentableP", "addedToCart"]
+- ["s16RawRepresentableP", "addedToWishlist"]
+- ["s16RawRepresentableP", "completedRegistration"]
+- ["s16RawRepresentableP", "completedTutorial"]
+- ["s16RawRepresentableP", "custom"]
+- ["s16RawRepresentableP", "description"]
+- ["s16RawRepresentableP", "hashValue"]
+- ["s16RawRepresentableP", "init"]
+- ["s16RawRepresentableP", "initiatedCheckout"]
+- ["s16RawRepresentableP", "purchased"]
+- ["s16RawRepresentableP", "rated"]
+- ["s16RawRepresentableP", "rawValue"]
+- ["s16RawRepresentableP", "searched"]
+- ["s16RawRepresentableP", "spentCredits"]
+- ["s16RawRepresentableP", "unlockedAchievement"]
+- ["s16RawRepresentableP", "viewedContent"]
+- ["s16RawRepresentableP", ""]
+- !private ["s8SequenceP", "hashValue"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "hashValue"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "hashValue"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "hashValue"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "hashValue"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "hashValue"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hashValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hashValue"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "hashValue"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hashValue"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "hashValue"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hashValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "hashValue"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "hashValue"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hashValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "hashValue"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "hashValue"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "12FacebookCore12AppEventNameO"
+- !private "12FacebookCore26AppEventParameterValueTypeP"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFGeneric.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookCore.build/unextended-module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+interface-hash: "36ae0b7a2a3fc7592f416cff457d22e1"

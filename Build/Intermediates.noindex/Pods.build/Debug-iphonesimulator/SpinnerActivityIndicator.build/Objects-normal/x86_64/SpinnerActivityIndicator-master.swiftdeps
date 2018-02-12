@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6aa2bf77bb56e1b07f02e0012ae3ee20"
+build_time: [1518465262, 365717000]
+inputs:
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SpinnerActivityIndicator/Pod/SpinnerActivityIndicator.swift": [1516693952, 0]
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SpinnerActivityIndicator/Pod/SpinnerController.swift": [1516693952, 0]

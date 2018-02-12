@@ -1,0 +1,11 @@
+framework module SnapTimer {
+  umbrella header "SnapTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SnapTimer.Swift {
+    header "SnapTimer-Swift.h"
+    requires objc
+}

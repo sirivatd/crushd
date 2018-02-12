@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1e11d4c55a7ccbcd6740d22888c9f9a5"
+build_time: [1518465256, 114382000]
+inputs:
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SnapTimer/SnapTimer/SnapTimerBorderLayer.swift": [1513056319, 0]
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SnapTimer/SnapTimer/SnapTimerCircleLayer.swift": [1513056319, 0]
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SnapTimer/SnapTimer/SnapTimerView.swift": [1513056319, 0]

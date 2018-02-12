@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/TTSegmentedControl/TTSegmentedControl.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TTSegmentedControl.build/unextended-module.modulemap',
+    }]
+  }]
+}

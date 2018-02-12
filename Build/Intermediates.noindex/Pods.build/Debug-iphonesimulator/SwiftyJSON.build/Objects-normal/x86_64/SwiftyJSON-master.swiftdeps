@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6a822e4c5675e4d033fb2d6aafce0c88"
+build_time: [1518465263, 78564000]
+inputs:
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1514872650, 0]

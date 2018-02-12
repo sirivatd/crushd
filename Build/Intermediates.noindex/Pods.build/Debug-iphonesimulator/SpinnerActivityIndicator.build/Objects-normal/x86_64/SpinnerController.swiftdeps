@@ -1,0 +1,502 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SpinnerController"
+provides-nominal:
+- "24SpinnerActivityIndicator0A10ControllerC"
+provides-member:
+- ["24SpinnerActivityIndicator0A10ControllerC", ""]
+provides-dynamic-lookup:
+- "handlePan"
+depends-top-level:
+- !private "!"
+- !private "-"
+- !private "/"
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "CFAbsoluteTime"
+- !private "CFAbsoluteTimeGetCurrent"
+- "CGFloat"
+- "CGPoint"
+- "SpinnerController"
+- "UIAttachmentBehavior"
+- "UIDynamicAnimator"
+- "UIDynamicItemBehavior"
+- "UIGestureRecognizer"
+- !private "UIOffsetMake"
+- !private "UIPanGestureRecognizer"
+- "UIView"
+- !private "atan2"
+- !private "||"
+depends-member:
+- !private ["Sa", "contains"]
+- !private ["s23BidirectionalCollectionP", "contains"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addGestureRecognizer"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "center"]
+- !private ["So15CALayerDelegateP", "convert"]
+- !private ["So15CALayerDelegateP", "transform"]
+- !private ["SC17CGAffineTransformV", "a"]
+- !private ["SC17CGAffineTransformV", "b"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "size"]
+- !private ["SC6CGSizeV", "height"]
+- !private ["SC6CGSizeV", "width"]
+- !private ["s7CVarArgP", "action"]
+- !private ["s7CVarArgP", "addAngularVelocity"]
+- !private ["s7CVarArgP", "addBehavior"]
+- !private ["s7CVarArgP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "anchorPoint"]
+- !private ["s7CVarArgP", "angularResistance"]
+- !private ["s7CVarArgP", "angularVelocity"]
+- !private ["s7CVarArgP", "behaviors"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "convert"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "location"]
+- !private ["s7CVarArgP", "removeBehavior"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "action"]
+- !private ["s28CustomDebugStringConvertibleP", "addAngularVelocity"]
+- !private ["s28CustomDebugStringConvertibleP", "addBehavior"]
+- !private ["s28CustomDebugStringConvertibleP", "addGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "anchorPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "angularResistance"]
+- !private ["s28CustomDebugStringConvertibleP", "angularVelocity"]
+- !private ["s28CustomDebugStringConvertibleP", "behaviors"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "convert"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "removeBehavior"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "action"]
+- !private ["s23CustomStringConvertibleP", "addAngularVelocity"]
+- !private ["s23CustomStringConvertibleP", "addBehavior"]
+- !private ["s23CustomStringConvertibleP", "addGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "anchorPoint"]
+- !private ["s23CustomStringConvertibleP", "angularResistance"]
+- !private ["s23CustomStringConvertibleP", "angularVelocity"]
+- !private ["s23CustomStringConvertibleP", "behaviors"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "convert"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "removeBehavior"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "a"]
+- !private ["s9DecodableP", "b"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "size"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "a"]
+- !private ["s9EncodableP", "b"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "size"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "a"]
+- !private ["s9EquatableP", "action"]
+- !private ["s9EquatableP", "addAngularVelocity"]
+- !private ["s9EquatableP", "addBehavior"]
+- !private ["s9EquatableP", "addGestureRecognizer"]
+- !private ["s9EquatableP", "addTarget"]
+- !private ["s9EquatableP", "anchorPoint"]
+- !private ["s9EquatableP", "angularResistance"]
+- !private ["s9EquatableP", "angularVelocity"]
+- !private ["s9EquatableP", "b"]
+- !private ["s9EquatableP", "began"]
+- !private ["s9EquatableP", "behaviors"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "cancelled"]
+- !private ["s9EquatableP", "center"]
+- !private ["s9EquatableP", "changed"]
+- !private ["s9EquatableP", "convert"]
+- !private ["s9EquatableP", "ended"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "location"]
+- !private ["s9EquatableP", "removeBehavior"]
+- !private ["s9EquatableP", "size"]
+- !private ["s9EquatableP", "state"]
+- !private ["s9EquatableP", "transform"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "y"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "action"]
+- !private ["s8HashableP", "addAngularVelocity"]
+- !private ["s8HashableP", "addBehavior"]
+- !private ["s8HashableP", "addGestureRecognizer"]
+- !private ["s8HashableP", "addTarget"]
+- !private ["s8HashableP", "anchorPoint"]
+- !private ["s8HashableP", "angularResistance"]
+- !private ["s8HashableP", "angularVelocity"]
+- !private ["s8HashableP", "began"]
+- !private ["s8HashableP", "behaviors"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "cancelled"]
+- !private ["s8HashableP", "center"]
+- !private ["s8HashableP", "changed"]
+- !private ["s8HashableP", "convert"]
+- !private ["s8HashableP", "ended"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "location"]
+- !private ["s8HashableP", "removeBehavior"]
+- !private ["s8HashableP", "state"]
+- !private ["s8HashableP", "transform"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "contains"]
+- !private ["So8NSCodingP", "addGestureRecognizer"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "center"]
+- !private ["So8NSCodingP", "convert"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSObjectC", "action"]
+- !private ["So8NSObjectC", "addAngularVelocity"]
+- !private ["So8NSObjectC", "addBehavior"]
+- !private ["So8NSObjectC", "addGestureRecognizer"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "anchorPoint"]
+- !private ["So8NSObjectC", "angularResistance"]
+- !private ["So8NSObjectC", "angularVelocity"]
+- !private ["So8NSObjectC", "behaviors"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "center"]
+- !private ["So8NSObjectC", "convert"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "location"]
+- !private ["So8NSObjectC", "removeBehavior"]
+- !private ["So8NSObjectC", "state"]
+- !private ["So8NSObjectC", "transform"]
+- !private ["So16NSObjectProtocolP", "action"]
+- !private ["So16NSObjectProtocolP", "addAngularVelocity"]
+- !private ["So16NSObjectProtocolP", "addBehavior"]
+- !private ["So16NSObjectProtocolP", "addGestureRecognizer"]
+- !private ["So16NSObjectProtocolP", "addTarget"]
+- !private ["So16NSObjectProtocolP", "anchorPoint"]
+- !private ["So16NSObjectProtocolP", "angularResistance"]
+- !private ["So16NSObjectProtocolP", "angularVelocity"]
+- !private ["So16NSObjectProtocolP", "behaviors"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "center"]
+- !private ["So16NSObjectProtocolP", "convert"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "location"]
+- !private ["So16NSObjectProtocolP", "removeBehavior"]
+- !private ["So16NSObjectProtocolP", "state"]
+- !private ["So16NSObjectProtocolP", "transform"]
+- !private ["s7NumericP", "init"]
+- !private ["s22RandomAccessCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "contains"]
+- !private ["s16RawRepresentableP", "began"]
+- !private ["s16RawRepresentableP", "cancelled"]
+- !private ["s16RawRepresentableP", "changed"]
+- !private ["s16RawRepresentableP", "ended"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s13SignedNumericP", "init"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "CFAbsoluteTime"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "CFAbsoluteTimeGetCurrent"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "CGFloat"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "CGPoint"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "UIAttachmentBehavior"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "UIDynamicAnimator"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "UIDynamicItemBehavior"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "UIGestureRecognizer"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "UIOffsetMake"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "UIPanGestureRecognizer"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "UIView"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "angularVelocity"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "animator"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "atan2"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "attachment"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "deinit"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "handlePan"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "init"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "lastAngle"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "lastTime"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "referenceView"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "setup"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "spinner"]
+- !private ["24SpinnerActivityIndicator0A10ControllerC", "spinnerBehavior"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "start"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "startTouchCenter"]
+- ["24SpinnerActivityIndicator0A10ControllerC", "stop"]
+- !private ["s10StrideableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addGestureRecognizer"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "center"]
+- !private ["So29UIAccessibilityIdentificationP", "convert"]
+- !private ["So29UIAccessibilityIdentificationP", "transform"]
+- !private ["So12UIAppearanceP", "addGestureRecognizer"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "center"]
+- !private ["So12UIAppearanceP", "convert"]
+- !private ["So12UIAppearanceP", "transform"]
+- !private ["So21UIAppearanceContainerP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "center"]
+- !private ["So21UIAppearanceContainerP", "convert"]
+- !private ["So21UIAppearanceContainerP", "transform"]
+- !private ["So20UIAttachmentBehaviorC", "action"]
+- !private ["So20UIAttachmentBehaviorC", "anchorPoint"]
+- !private ["So20UIAttachmentBehaviorC", "init"]
+- !private ["So17UICoordinateSpaceP", "addGestureRecognizer"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "center"]
+- !private ["So17UICoordinateSpaceP", "convert"]
+- !private ["So17UICoordinateSpaceP", "transform"]
+- !private ["So17UIDynamicAnimatorC", "addBehavior"]
+- !private ["So17UIDynamicAnimatorC", "behaviors"]
+- !private ["So17UIDynamicAnimatorC", "init"]
+- !private ["So17UIDynamicAnimatorC", "removeBehavior"]
+- !private ["So17UIDynamicBehaviorC", "action"]
+- !private ["So17UIDynamicBehaviorC", "addAngularVelocity"]
+- !private ["So17UIDynamicBehaviorC", "anchorPoint"]
+- !private ["So17UIDynamicBehaviorC", "angularResistance"]
+- !private ["So17UIDynamicBehaviorC", "angularVelocity"]
+- !private ["So17UIDynamicBehaviorC", "init"]
+- !private ["So13UIDynamicItemP", "addGestureRecognizer"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "convert"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So21UIDynamicItemBehaviorC", "addAngularVelocity"]
+- !private ["So21UIDynamicItemBehaviorC", "angularResistance"]
+- !private ["So21UIDynamicItemBehaviorC", "angularVelocity"]
+- !private ["So21UIDynamicItemBehaviorC", "init"]
+- !private ["So18UIFocusEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "center"]
+- !private ["So18UIFocusEnvironmentP", "convert"]
+- !private ["So18UIFocusEnvironmentP", "transform"]
+- !private ["So11UIFocusItemP", "addGestureRecognizer"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "center"]
+- !private ["So11UIFocusItemP", "convert"]
+- !private ["So11UIFocusItemP", "transform"]
+- !private ["So19UIGestureRecognizerC", "addTarget"]
+- !private ["So19UIGestureRecognizerC", "init"]
+- !private ["So19UIGestureRecognizerC", "location"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- !private ["SC24UIGestureRecognizerStateO", "began"]
+- !private ["SC24UIGestureRecognizerStateO", "cancelled"]
+- !private ["SC24UIGestureRecognizerStateO", "changed"]
+- !private ["SC24UIGestureRecognizerStateO", "ended"]
+- !private ["So22UIPanGestureRecognizerC", "addTarget"]
+- !private ["So22UIPanGestureRecognizerC", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "center"]
+- !private ["So30UIPasteConfigurationSupportingP", "convert"]
+- !private ["So30UIPasteConfigurationSupportingP", "transform"]
+- !private ["So11UIResponderC", "addGestureRecognizer"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "center"]
+- !private ["So11UIResponderC", "convert"]
+- !private ["So11UIResponderC", "transform"]
+- !private ["So30UIResponderStandardEditActionsP", "addGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "center"]
+- !private ["So30UIResponderStandardEditActionsP", "convert"]
+- !private ["So30UIResponderStandardEditActionsP", "transform"]
+- !private ["So18UITraitEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "center"]
+- !private ["So18UITraitEnvironmentP", "convert"]
+- !private ["So18UITraitEnvironmentP", "transform"]
+- !private ["So6UIViewC", "addGestureRecognizer"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "center"]
+- !private ["So6UIViewC", "convert"]
+- !private ["So6UIViewC", "transform"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s23_BidirectionalIndexableP", "contains"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "center"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "convert"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "transform"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "action"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAngularVelocity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addBehavior"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "anchorPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "angularResistance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "angularVelocity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "behaviors"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "convert"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeBehavior"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["s17_MutableIndexableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "a"]
+- !private ["s21_ObjectiveCBridgeableP", "b"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s22_RandomAccessIndexableP", "contains"]
+- !private ["s26_RangeReplaceableIndexableP", "contains"]
+- !private ["s11_StrideableP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "SC17CGAffineTransformV"
+- !private "12CoreGraphics7CGFloatV"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s13FloatingPointP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s7NumericP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s13SignedNumericP"
+- "24SpinnerActivityIndicator0A10ControllerC"
+- !private "s10StrideableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So20UIAttachmentBehaviorC"
+- !private "So17UICoordinateSpaceP"
+- !private "So17UIDynamicAnimatorC"
+- !private "So17UIDynamicBehaviorC"
+- !private "So13UIDynamicItemP"
+- !private "So21UIDynamicItemBehaviorC"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So19UIGestureRecognizerC"
+- !private "SC24UIGestureRecognizerStateO"
+- !private "So22UIPanGestureRecognizerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/SpinnerActivityIndicator/SpinnerActivityIndicator-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SpinnerActivityIndicator.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+interface-hash: "15973a8bcc25a348675db78cc65b7aa3"

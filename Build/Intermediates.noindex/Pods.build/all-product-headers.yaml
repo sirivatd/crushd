@@ -1,0 +1,1453 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/AFBlurSegue/AFBlurSegue.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFBlurSegue-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/AFBlurSegue/AFBlurSegue.framework/Headers/AFBlurSegue-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFBlurSegue-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/AFBlurSegue/AFBlurSegue-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFBlurSegue.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/AFBlurSegue/Classes/AFBlurSegue.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ImageEffects.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/AFBlurSegue/Classes/UIImage+ImageEffects.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/AFBlurSegue/AFBlurSegue.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/AFBlurSegue.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BFAppLink.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkNavigation.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkResolving.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkReturnToRefererController.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkReturnToRefererView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFAppLinkTarget.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationToken.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenRegistration.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenSource.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFExecutor.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFExecutor.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFGeneric.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFGeneric.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFMeasurementEvent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTask.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTaskCompletionSource.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFURL.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFURL.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFWebViewAppLinkResolver.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/Bolts.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Canvas/Canvas.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CSAnimation.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/CSAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSAnimationView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/CSAnimationView.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSBlurView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/CSBlurView.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSNavigationController.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/CSNavigationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Canvas/Canvas.framework/Headers/Canvas-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Canvas/Canvas-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/Canvas.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+TCCustomFont.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UIButton+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UILabel+TCCustomFont.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UILabel+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+TCCustomFont.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UINavigationBar+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+PlaceholderColor.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UITextField+PlaceholderColor.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+TCCustomFont.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UITextField+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+TCCustomFont.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Canvas/CanvasLibrary/UITextView+TCCustomFont.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Canvas/Canvas.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Canvas.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/EMAlertController/EMAlertController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EMAlertController-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/EMAlertController/EMAlertController.framework/Headers/EMAlertController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EMAlertController-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/EMAlertController/EMAlertController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/EMAlertController/EMAlertController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/EMAlertController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBSDKAccessToken.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppEvents.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppLinkResolver.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppLinkUtility.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKApplicationDelegate.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKConstants.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCopying.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCoreKit.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphErrorRecoveryProcessor.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequest.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequestConnection.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGraphRequestDataAttachment.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKMacros.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKMutableCopying.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKProfile.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKProfilePictureView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSettings.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKTestUsersManager.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKUtility.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBSDKLoginButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginConstants.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginKit.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginManager.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginManagerLoginResult.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLoginTooltipView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKTooltipView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBSDKAppGroupAddDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupAddDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppGroupContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppGroupJoinDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupJoinDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppInviteContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKAppInviteDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCameraEffectArguments.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKCameraEffectArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKCameraEffectTextures.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKCameraEffectTextures.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGameRequestContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKGameRequestDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKHashtag.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLikeButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLikeControl.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLikeObjectType.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKLiking.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLiking.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKMessageDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSendButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareAPI.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareCameraEffectContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareCameraEffectContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareConstants.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareDialog.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareDialogMode.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareKit-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Headers/FBSDKShareKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareKit-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareKit.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareLinkContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMediaContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerActionButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerActionButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerGenericTemplateContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerGenericTemplateElement.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerMediaTemplateContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerMediaTemplateContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerOpenGraphMusicTemplateContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerOpenGraphMusicTemplateContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareMessengerURLActionButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerURLActionButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareOpenGraphAction.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareOpenGraphContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareOpenGraphObject.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareOpenGraphValueContainer.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSharePhoto.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSharePhotoContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareVideo.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKShareVideoContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSharing.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharing.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSharingButton.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBSDKSharingContent.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingContent.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKShareKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FacebookCore-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FacebookCore-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookCore.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FacebookLogin-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FacebookLogin-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookLogin/FacebookLogin-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookLogin.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FacebookShare-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Headers/FacebookShare-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FacebookShare-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookShare/FacebookShare-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookShare.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQMessagesViewController/JSQMessagesViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JSQAudioMediaItem.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQAudioMediaItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQAudioMediaViewAttributes.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQAudioMediaViewAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQLocationMediaItem.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQLocationMediaItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMediaItem.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMediaItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessage.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessageAvatarImageDataSource.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessageAvatarImageDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessageBubbleImageDataSource.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessageBubbleImageDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessageData.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessageData.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessageMediaData.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessageMediaData.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesAvatarImage.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessagesAvatarImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesAvatarImageFactory.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Factories/JSQMessagesAvatarImageFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesBubbleImage.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessagesBubbleImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesBubbleImageFactory.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Factories/JSQMessagesBubbleImageFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesBubbleSizeCalculating.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQMessagesBubbleSizeCalculating.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesBubblesSizeCalculator.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQMessagesBubblesSizeCalculator.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCellTextView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesCellTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesCollectionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewCell.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewCellIncoming.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesCollectionViewCellIncoming.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewCellOutgoing.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesCollectionViewCellOutgoing.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewDataSource.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessagesCollectionViewDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewDelegateFlowLayout.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQMessagesCollectionViewDelegateFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewFlowLayout.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQMessagesCollectionViewFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewFlowLayoutInvalidationContext.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQMessagesCollectionViewFlowLayoutInvalidationContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesCollectionViewLayoutAttributes.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Layout/JSQMessagesCollectionViewLayoutAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesComposerTextView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesComposerTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesInputToolbar.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesInputToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesKeyboardController.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Controllers/JSQMessagesKeyboardController.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesLabel.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesLoadEarlierHeaderView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesLoadEarlierHeaderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesMediaPlaceholderView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesMediaPlaceholderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesMediaViewBubbleImageMasker.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Factories/JSQMessagesMediaViewBubbleImageMasker.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesTimestampFormatter.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Factories/JSQMessagesTimestampFormatter.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesToolbarButtonFactory.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Factories/JSQMessagesToolbarButtonFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesToolbarContentView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesToolbarContentView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesTypingIndicatorFooterView.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Views/JSQMessagesTypingIndicatorFooterView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesViewController-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesViewController-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/JSQMessagesViewController/JSQMessagesViewController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQMessagesViewController.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Controllers/JSQMessagesViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQPhotoMediaItem.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQPhotoMediaItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/JSQSystemSoundPlayer+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQVideoMediaItem.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Model/JSQVideoMediaItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSBundle+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/NSBundle+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/NSString+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/UIColor+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDevice+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/UIDevice+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/UIImage+JSQMessages.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+JSQMessages.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQMessagesViewController/JSQMessagesViewController/Categories/UIView+JSQMessages.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQMessagesViewController/JSQMessagesViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/JSQMessagesViewController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Headers/JSQSystemSoundPlayer-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/JSQSystemSoundPlayer/JSQSystemSoundPlayer-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/JSQSystemSoundPlayer.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Pods_crushd.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-crushd-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Pods-crushd/Pods-crushd-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_crushd-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Pods_crushd.framework/Headers/Pods_crushd-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/Pods_crushd.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-crushd.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SnapTimer/SnapTimer.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SnapTimer-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SnapTimer/SnapTimer.framework/Headers/SnapTimer-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapTimer-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/SnapTimer/SnapTimer-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SnapTimer/SnapTimer.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapTimer.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SpinnerActivityIndicator/SpinnerActivityIndicator.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SpinnerActivityIndicator-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SpinnerActivityIndicator/SpinnerActivityIndicator.framework/Headers/SpinnerActivityIndicator-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SpinnerActivityIndicator-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/SpinnerActivityIndicator/SpinnerActivityIndicator-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SpinnerActivityIndicator/SpinnerActivityIndicator.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SpinnerActivityIndicator.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/TTSegmentedControl/TTSegmentedControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TTSegmentedControl-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/TTSegmentedControl/TTSegmentedControl.framework/Headers/TTSegmentedControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TTSegmentedControl-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/TTSegmentedControl/TTSegmentedControl-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/TTSegmentedControl/TTSegmentedControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TTSegmentedControl.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "c.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/c.h"
+        },
+        {
+          'type': 'file',
+          'name': "cache.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/cache.h"
+        },
+        {
+          'type': 'file',
+          'name': "comparator.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/comparator.h"
+        },
+        {
+          'type': 'file',
+          'name': "db.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/db.h"
+        },
+        {
+          'type': 'file',
+          'name': "dumpfile.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/dumpfile.h"
+        },
+        {
+          'type': 'file',
+          'name': "env.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/env.h"
+        },
+        {
+          'type': 'file',
+          'name': "filter_policy.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/filter_policy.h"
+        },
+        {
+          'type': 'file',
+          'name': "iterator.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/iterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "leveldb-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/leveldb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "leveldb-library-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/leveldb-library/leveldb-library-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "options.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/options.h"
+        },
+        {
+          'type': 'file',
+          'name': "slice.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/slice.h"
+        },
+        {
+          'type': 'file',
+          'name': "status.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/status.h"
+        },
+        {
+          'type': 'file',
+          'name': "table.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/table.h"
+        },
+        {
+          'type': 'file',
+          'name': "table_builder.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/table_builder.h"
+        },
+        {
+          'type': 'file',
+          'name': "write_batch.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/leveldb-library/include/leveldb/write_batch.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/leveldb-library.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "nanopb-Swift.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "nanopb-umbrella.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/nanopb/pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_common.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/nanopb/pb_common.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_decode.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/nanopb/pb_decode.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_encode.h",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Pods/nanopb/pb_encode.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/eligitelman/Documents/GitHub/crushd/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

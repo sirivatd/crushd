@@ -1,0 +1,590 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SnapTimerCircleLayer"
+provides-nominal:
+- "9SnapTimer0aB11CircleLayerC"
+provides-member:
+- ["9SnapTimer0aB11CircleLayerC", ""]
+provides-dynamic-lookup:
+- "action"
+- "circleColor"
+- "draw"
+- "needsDisplay"
+- "radius"
+- "startAngle"
+depends-top-level:
+- !private "/"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CAAction"
+- "CAAnimation"
+- !private "CABasicAnimation"
+- "CALayer"
+- !private "CAMediaTimingFunction"
+- !private "CATransaction"
+- "CGColor"
+- "CGContext"
+- "CGFloat"
+- !private "CGPoint"
+- "CastingPrecedence"
+- "NSCoder"
+- "SnapTimerCircleLayer"
+- !private "SnapTimerView"
+- "String"
+- !private "StringLiteralType"
+- !private "kCAMediaTimingFunctionLinear"
+- !private "||"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So8CAActionP", "duration"]
+- !private ["So8CAActionP", "fromValue"]
+- !private ["So8CAActionP", "init"]
+- !private ["So8CAActionP", "timingFunction"]
+- !private ["So11CAAnimationC", "duration"]
+- !private ["So11CAAnimationC", "fromValue"]
+- !private ["So11CAAnimationC", "init"]
+- !private ["So11CAAnimationC", "timingFunction"]
+- !private ["So16CABasicAnimationC", "duration"]
+- !private ["So16CABasicAnimationC", "fromValue"]
+- !private ["So16CABasicAnimationC", "init"]
+- !private ["So16CABasicAnimationC", "timingFunction"]
+- ["So7CALayerC", "Bool"]
+- ["So7CALayerC", "CAAction"]
+- ["So7CALayerC", "CAAnimation"]
+- !private ["So7CALayerC", "CABasicAnimation"]
+- !private ["So7CALayerC", "CAMediaTimingFunction"]
+- !private ["So7CALayerC", "CATransaction"]
+- ["So7CALayerC", "CGColor"]
+- ["So7CALayerC", "CGContext"]
+- ["So7CALayerC", "CGFloat"]
+- !private ["So7CALayerC", "CGPoint"]
+- ["So7CALayerC", "NSCoder"]
+- !private ["So7CALayerC", "SnapTimerCircleLayer"]
+- !private ["So7CALayerC", "SnapTimerView"]
+- ["So7CALayerC", "String"]
+- ["So7CALayerC", "action"]
+- ["So7CALayerC", "animation"]
+- !private ["So7CALayerC", "bounds"]
+- ["So7CALayerC", "circleColor"]
+- ["So7CALayerC", "draw"]
+- ["So7CALayerC", "init"]
+- !private ["So7CALayerC", "kCAMediaTimingFunctionLinear"]
+- ["So7CALayerC", "needsDisplay"]
+- !private ["So7CALayerC", "presentation"]
+- ["So7CALayerC", "radius"]
+- ["So7CALayerC", "startAngle"]
+- !private ["So7CALayerC", "value"]
+- ["So7CALayerC", ""]
+- !private ["So15CALayerDelegateP", "endAngle"]
+- !private ["So13CAMediaTimingP", "CABasicAnimation"]
+- !private ["So13CAMediaTimingP", "CAMediaTimingFunction"]
+- !private ["So13CAMediaTimingP", "CATransaction"]
+- !private ["So13CAMediaTimingP", "CGPoint"]
+- !private ["So13CAMediaTimingP", "SnapTimerView"]
+- !private ["So13CAMediaTimingP", "action"]
+- !private ["So13CAMediaTimingP", "animation"]
+- !private ["So13CAMediaTimingP", "bounds"]
+- !private ["So13CAMediaTimingP", "circleColor"]
+- !private ["So13CAMediaTimingP", "duration"]
+- !private ["So13CAMediaTimingP", "fromValue"]
+- !private ["So13CAMediaTimingP", "init"]
+- !private ["So13CAMediaTimingP", "kCAMediaTimingFunctionLinear"]
+- !private ["So13CAMediaTimingP", "needsDisplay"]
+- !private ["So13CAMediaTimingP", "presentation"]
+- !private ["So13CAMediaTimingP", "radius"]
+- !private ["So13CAMediaTimingP", "startAngle"]
+- !private ["So13CAMediaTimingP", "timingFunction"]
+- !private ["So13CAMediaTimingP", "value"]
+- ["So13CAMediaTimingP", ""]
+- !private ["So21CAMediaTimingFunctionC", "init"]
+- !private ["So19CAPropertyAnimationC", "duration"]
+- !private ["So19CAPropertyAnimationC", "fromValue"]
+- !private ["So19CAPropertyAnimationC", "init"]
+- !private ["So19CAPropertyAnimationC", "timingFunction"]
+- !private ["So13CATransactionC", "animationDuration"]
+- !private ["So13CATransactionC", "animationTimingFunction"]
+- !private ["So9CGContextC", "addArc"]
+- !private ["So9CGContextC", "beginPath"]
+- !private ["So9CGContextC", "drawPath"]
+- !private ["So9CGContextC", "move"]
+- !private ["So9CGContextC", "setFillColor"]
+- !private ["So9CGContextC", "setLineWidth"]
+- !private ["SC17CGPathDrawingModeO", "fillStroke"]
+- !private ["SC7CGPointV", "init"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "height"]
+- !private ["SC6CGRectV", "width"]
+- !private ["s7CVarArgP", "CABasicAnimation"]
+- !private ["s7CVarArgP", "CAMediaTimingFunction"]
+- !private ["s7CVarArgP", "CATransaction"]
+- !private ["s7CVarArgP", "CGPoint"]
+- !private ["s7CVarArgP", "SnapTimerView"]
+- !private ["s7CVarArgP", "action"]
+- !private ["s7CVarArgP", "animation"]
+- !private ["s7CVarArgP", "animationDuration"]
+- !private ["s7CVarArgP", "animationTimingFunction"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "circleColor"]
+- !private ["s7CVarArgP", "duration"]
+- !private ["s7CVarArgP", "endAngle"]
+- !private ["s7CVarArgP", "fromValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "kCAMediaTimingFunctionLinear"]
+- !private ["s7CVarArgP", "needsDisplay"]
+- !private ["s7CVarArgP", "presentation"]
+- !private ["s7CVarArgP", "radius"]
+- !private ["s7CVarArgP", "startAngle"]
+- !private ["s7CVarArgP", "timingFunction"]
+- !private ["s7CVarArgP", "value"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CABasicAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "CAMediaTimingFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransaction"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "SnapTimerView"]
+- !private ["s28CustomDebugStringConvertibleP", "action"]
+- !private ["s28CustomDebugStringConvertibleP", "animation"]
+- !private ["s28CustomDebugStringConvertibleP", "animationDuration"]
+- !private ["s28CustomDebugStringConvertibleP", "animationTimingFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "circleColor"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "endAngle"]
+- !private ["s28CustomDebugStringConvertibleP", "fromValue"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "kCAMediaTimingFunctionLinear"]
+- !private ["s28CustomDebugStringConvertibleP", "needsDisplay"]
+- !private ["s28CustomDebugStringConvertibleP", "presentation"]
+- !private ["s28CustomDebugStringConvertibleP", "radius"]
+- !private ["s28CustomDebugStringConvertibleP", "startAngle"]
+- !private ["s28CustomDebugStringConvertibleP", "timingFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "CABasicAnimation"]
+- !private ["s23CustomStringConvertibleP", "CAMediaTimingFunction"]
+- !private ["s23CustomStringConvertibleP", "CATransaction"]
+- !private ["s23CustomStringConvertibleP", "CGPoint"]
+- !private ["s23CustomStringConvertibleP", "SnapTimerView"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "action"]
+- !private ["s23CustomStringConvertibleP", "animation"]
+- !private ["s23CustomStringConvertibleP", "animationDuration"]
+- !private ["s23CustomStringConvertibleP", "animationTimingFunction"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "circleColor"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "endAngle"]
+- !private ["s23CustomStringConvertibleP", "fromValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kCAMediaTimingFunctionLinear"]
+- !private ["s23CustomStringConvertibleP", "needsDisplay"]
+- !private ["s23CustomStringConvertibleP", "presentation"]
+- !private ["s23CustomStringConvertibleP", "radius"]
+- !private ["s23CustomStringConvertibleP", "startAngle"]
+- !private ["s23CustomStringConvertibleP", "timingFunction"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "CABasicAnimation"]
+- !private ["s9EquatableP", "CAMediaTimingFunction"]
+- !private ["s9EquatableP", "CATransaction"]
+- !private ["s9EquatableP", "CGPoint"]
+- !private ["s9EquatableP", "SnapTimerView"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "action"]
+- !private ["s9EquatableP", "addArc"]
+- !private ["s9EquatableP", "animation"]
+- !private ["s9EquatableP", "animationDuration"]
+- !private ["s9EquatableP", "animationTimingFunction"]
+- !private ["s9EquatableP", "beginPath"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "circleColor"]
+- !private ["s9EquatableP", "drawPath"]
+- !private ["s9EquatableP", "duration"]
+- !private ["s9EquatableP", "endAngle"]
+- !private ["s9EquatableP", "fillStroke"]
+- !private ["s9EquatableP", "fromValue"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "kCAMediaTimingFunctionLinear"]
+- !private ["s9EquatableP", "move"]
+- !private ["s9EquatableP", "needsDisplay"]
+- !private ["s9EquatableP", "presentation"]
+- !private ["s9EquatableP", "radius"]
+- !private ["s9EquatableP", "setFillColor"]
+- !private ["s9EquatableP", "setLineWidth"]
+- !private ["s9EquatableP", "startAngle"]
+- !private ["s9EquatableP", "timingFunction"]
+- !private ["s9EquatableP", "value"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "y"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "CABasicAnimation"]
+- !private ["s8HashableP", "CAMediaTimingFunction"]
+- !private ["s8HashableP", "CATransaction"]
+- !private ["s8HashableP", "CGPoint"]
+- !private ["s8HashableP", "SnapTimerView"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "action"]
+- !private ["s8HashableP", "addArc"]
+- !private ["s8HashableP", "animation"]
+- !private ["s8HashableP", "animationDuration"]
+- !private ["s8HashableP", "animationTimingFunction"]
+- !private ["s8HashableP", "beginPath"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "circleColor"]
+- !private ["s8HashableP", "drawPath"]
+- !private ["s8HashableP", "duration"]
+- !private ["s8HashableP", "endAngle"]
+- !private ["s8HashableP", "fillStroke"]
+- !private ["s8HashableP", "fromValue"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "kCAMediaTimingFunctionLinear"]
+- !private ["s8HashableP", "move"]
+- !private ["s8HashableP", "needsDisplay"]
+- !private ["s8HashableP", "presentation"]
+- !private ["s8HashableP", "radius"]
+- !private ["s8HashableP", "setFillColor"]
+- !private ["s8HashableP", "setLineWidth"]
+- !private ["s8HashableP", "startAngle"]
+- !private ["s8HashableP", "timingFunction"]
+- !private ["s8HashableP", "value"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CABasicAnimation"]
+- !private ["So8NSCodingP", "CAMediaTimingFunction"]
+- !private ["So8NSCodingP", "CATransaction"]
+- !private ["So8NSCodingP", "CGPoint"]
+- !private ["So8NSCodingP", "SnapTimerView"]
+- !private ["So8NSCodingP", "action"]
+- !private ["So8NSCodingP", "animation"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "circleColor"]
+- !private ["So8NSCodingP", "duration"]
+- !private ["So8NSCodingP", "endAngle"]
+- !private ["So8NSCodingP", "fromValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "kCAMediaTimingFunctionLinear"]
+- !private ["So8NSCodingP", "needsDisplay"]
+- !private ["So8NSCodingP", "presentation"]
+- !private ["So8NSCodingP", "radius"]
+- !private ["So8NSCodingP", "startAngle"]
+- !private ["So8NSCodingP", "timingFunction"]
+- !private ["So8NSCodingP", "value"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "duration"]
+- !private ["So9NSCopyingP", "fromValue"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "timingFunction"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CAAction"]
+- ["So8NSObjectC", "CAAnimation"]
+- !private ["So8NSObjectC", "CABasicAnimation"]
+- !private ["So8NSObjectC", "CAMediaTimingFunction"]
+- !private ["So8NSObjectC", "CATransaction"]
+- ["So8NSObjectC", "CGColor"]
+- ["So8NSObjectC", "CGContext"]
+- ["So8NSObjectC", "CGFloat"]
+- !private ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "SnapTimerCircleLayer"]
+- !private ["So8NSObjectC", "SnapTimerView"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "action"]
+- ["So8NSObjectC", "animation"]
+- !private ["So8NSObjectC", "animationDuration"]
+- !private ["So8NSObjectC", "animationTimingFunction"]
+- !private ["So8NSObjectC", "bounds"]
+- ["So8NSObjectC", "circleColor"]
+- ["So8NSObjectC", "draw"]
+- !private ["So8NSObjectC", "duration"]
+- !private ["So8NSObjectC", "endAngle"]
+- !private ["So8NSObjectC", "fromValue"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "kCAMediaTimingFunctionLinear"]
+- ["So8NSObjectC", "needsDisplay"]
+- !private ["So8NSObjectC", "presentation"]
+- ["So8NSObjectC", "radius"]
+- ["So8NSObjectC", "startAngle"]
+- !private ["So8NSObjectC", "timingFunction"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So16NSObjectProtocolP", "CABasicAnimation"]
+- !private ["So16NSObjectProtocolP", "CAMediaTimingFunction"]
+- !private ["So16NSObjectProtocolP", "CATransaction"]
+- !private ["So16NSObjectProtocolP", "CGPoint"]
+- !private ["So16NSObjectProtocolP", "SnapTimerView"]
+- !private ["So16NSObjectProtocolP", "action"]
+- !private ["So16NSObjectProtocolP", "animation"]
+- !private ["So16NSObjectProtocolP", "animationDuration"]
+- !private ["So16NSObjectProtocolP", "animationTimingFunction"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "circleColor"]
+- !private ["So16NSObjectProtocolP", "duration"]
+- !private ["So16NSObjectProtocolP", "endAngle"]
+- !private ["So16NSObjectProtocolP", "fromValue"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "kCAMediaTimingFunctionLinear"]
+- !private ["So16NSObjectProtocolP", "needsDisplay"]
+- !private ["So16NSObjectProtocolP", "presentation"]
+- !private ["So16NSObjectProtocolP", "radius"]
+- !private ["So16NSObjectProtocolP", "startAngle"]
+- !private ["So16NSObjectProtocolP", "timingFunction"]
+- !private ["So16NSObjectProtocolP", "value"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "CABasicAnimation"]
+- !private ["So14NSSecureCodingP", "CAMediaTimingFunction"]
+- !private ["So14NSSecureCodingP", "CATransaction"]
+- !private ["So14NSSecureCodingP", "CGPoint"]
+- !private ["So14NSSecureCodingP", "SnapTimerView"]
+- !private ["So14NSSecureCodingP", "action"]
+- !private ["So14NSSecureCodingP", "animation"]
+- !private ["So14NSSecureCodingP", "bounds"]
+- !private ["So14NSSecureCodingP", "circleColor"]
+- !private ["So14NSSecureCodingP", "duration"]
+- !private ["So14NSSecureCodingP", "fromValue"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "kCAMediaTimingFunctionLinear"]
+- !private ["So14NSSecureCodingP", "needsDisplay"]
+- !private ["So14NSSecureCodingP", "presentation"]
+- !private ["So14NSSecureCodingP", "radius"]
+- !private ["So14NSSecureCodingP", "startAngle"]
+- !private ["So14NSSecureCodingP", "timingFunction"]
+- !private ["So14NSSecureCodingP", "value"]
+- ["So14NSSecureCodingP", ""]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "fillStroke"]
+- !private ["s8SequenceP", "init"]
+- ["9SnapTimer0aB11CircleLayerC", "Bool"]
+- ["9SnapTimer0aB11CircleLayerC", "CAAction"]
+- ["9SnapTimer0aB11CircleLayerC", "CAAnimation"]
+- !private ["9SnapTimer0aB11CircleLayerC", "CABasicAnimation"]
+- !private ["9SnapTimer0aB11CircleLayerC", "CAMediaTimingFunction"]
+- !private ["9SnapTimer0aB11CircleLayerC", "CATransaction"]
+- ["9SnapTimer0aB11CircleLayerC", "CGColor"]
+- ["9SnapTimer0aB11CircleLayerC", "CGContext"]
+- ["9SnapTimer0aB11CircleLayerC", "CGFloat"]
+- !private ["9SnapTimer0aB11CircleLayerC", "CGPoint"]
+- ["9SnapTimer0aB11CircleLayerC", "NSCoder"]
+- !private ["9SnapTimer0aB11CircleLayerC", "SnapTimerCircleLayer"]
+- !private ["9SnapTimer0aB11CircleLayerC", "SnapTimerView"]
+- ["9SnapTimer0aB11CircleLayerC", "String"]
+- ["9SnapTimer0aB11CircleLayerC", "action"]
+- ["9SnapTimer0aB11CircleLayerC", "animation"]
+- !private ["9SnapTimer0aB11CircleLayerC", "bounds"]
+- ["9SnapTimer0aB11CircleLayerC", "circleColor"]
+- ["9SnapTimer0aB11CircleLayerC", "deinit"]
+- ["9SnapTimer0aB11CircleLayerC", "draw"]
+- ["9SnapTimer0aB11CircleLayerC", "init"]
+- !private ["9SnapTimer0aB11CircleLayerC", "kCAMediaTimingFunctionLinear"]
+- ["9SnapTimer0aB11CircleLayerC", "needsDisplay"]
+- !private ["9SnapTimer0aB11CircleLayerC", "presentation"]
+- ["9SnapTimer0aB11CircleLayerC", "radius"]
+- ["9SnapTimer0aB11CircleLayerC", "startAngle"]
+- !private ["9SnapTimer0aB11CircleLayerC", "value"]
+- !private ["9SnapTimer0aB4ViewC", "endAngle"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "endAngle"]
+- !private ["So12UIAppearanceP", "endAngle"]
+- !private ["So21UIAppearanceContainerP", "endAngle"]
+- !private ["So17UICoordinateSpaceP", "endAngle"]
+- !private ["So13UIDynamicItemP", "endAngle"]
+- !private ["So18UIFocusEnvironmentP", "endAngle"]
+- !private ["So11UIFocusItemP", "endAngle"]
+- !private ["So30UIPasteConfigurationSupportingP", "endAngle"]
+- !private ["So11UIResponderC", "endAngle"]
+- !private ["So30UIResponderStandardEditActionsP", "endAngle"]
+- !private ["So18UITraitEnvironmentP", "endAngle"]
+- !private ["So6UIViewC", "endAngle"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["14CoreFoundation9_CFObjectP", "addArc"]
+- !private ["14CoreFoundation9_CFObjectP", "beginPath"]
+- !private ["14CoreFoundation9_CFObjectP", "drawPath"]
+- !private ["14CoreFoundation9_CFObjectP", "move"]
+- !private ["14CoreFoundation9_CFObjectP", "setFillColor"]
+- !private ["14CoreFoundation9_CFObjectP", "setLineWidth"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "endAngle"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CABasicAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CAMediaTimingFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransaction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SnapTimerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "action"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationDuration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationTimingFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "circleColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endAngle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kCAMediaTimingFunctionLinear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "needsDisplay"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "radius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startAngle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timingFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So8CAActionP"
+- !private "So11CAAnimationC"
+- !private "So16CABasicAnimationC"
+- "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- "So13CAMediaTimingP"
+- !private "So21CAMediaTimingFunctionC"
+- !private "So19CAPropertyAnimationC"
+- !private "So13CATransactionC"
+- !private "So9CGContextC"
+- !private "SC17CGPathDrawingModeO"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- "9SnapTimer0aB11CircleLayerC"
+- !private "9SnapTimer0aB4ViewC"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s23_BidirectionalIndexableP"
+- !private "14CoreFoundation9_CFObjectP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/SnapTimer/SnapTimer-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapTimer.build/unextended-module.modulemap"
+interface-hash: "445f03cc7729f12c98781d5558fd4ffb"

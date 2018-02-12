@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "4fe86919d7b8674c20a50979b17de75e"
+build_time: [1518465273, 220087000]
+inputs:
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/TTSegmentedControl/TTSegmentedControl/TTSegmentedControl.swift": [1512935491, 0]

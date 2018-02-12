@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "530af194f0944c700300ce2120392617"
+build_time: [1518465251, 706685000]
+inputs:
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/EMAlertController/EMAlertController/EMAlertController/EMAlertAction.swift": [1512996187, 0]
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/EMAlertController/EMAlertController/EMAlertController/EMAlertController.swift": [1512996187, 0]
+  "/Users/eligitelman/Documents/GitHub/crushd/Pods/EMAlertController/EMAlertController/EMAlertController/UIColor+EMAlertController.swift": [1512996187, 0]

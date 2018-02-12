@@ -1,0 +1,320 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GraphRequestConnection"
+provides-nominal:
+- "12FacebookCore22GraphRequestConnectionC"
+provides-member:
+- ["12FacebookCore22GraphRequestConnectionC", ""]
+- ["12FacebookCore22GraphRequestConnectionC", "Completion"]
+- ["12FacebookCore22GraphRequestConnectionC", "add"]
+- ["12FacebookCore22GraphRequestConnectionC", "add"]
+- ["12FacebookCore22GraphRequestConnectionC", "start"]
+- ["12FacebookCore22GraphRequestConnectionC", "cancel"]
+- ["12FacebookCore22GraphRequestConnectionC", "SDKRequestCompletion"]
+- ["12FacebookCore22GraphRequestConnectionC", "sdkRequestCompletion"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "Dictionary"
+- "Error"
+- "FBSDKGraphRequestConnection"
+- "GraphRequestConnection"
+- "GraphRequestConnectionDelegateBridge"
+- "GraphRequestProtocol"
+- "GraphRequestResult"
+- "HTTPURLResponse"
+- "Int64"
+- "OperationQueue"
+- "String"
+- !private "StringLiteralType"
+- "Void"
+- !private "type"
+depends-member:
+- !private ["12FacebookCore26AppEventParameterValueTypeP", "init"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "add"]
+- !private ["s7CVarArgP", "cancel"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "networkFailureHandler"]
+- !private ["s7CVarArgP", "networkProgressHandler"]
+- !private ["s7CVarArgP", "setDelegateQueue"]
+- !private ["s7CVarArgP", "setupAsDelegateFor"]
+- !private ["s7CVarArgP", "start"]
+- !private ["s7CVarArgP", "urlResponse"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "networkFailureHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "networkProgressHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "setDelegateQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "setupAsDelegateFor"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "urlResponse"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "networkFailureHandler"]
+- !private ["s23CustomStringConvertibleP", "networkProgressHandler"]
+- !private ["s23CustomStringConvertibleP", "setDelegateQueue"]
+- !private ["s23CustomStringConvertibleP", "setupAsDelegateFor"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "urlResponse"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EquatableP", "add"]
+- !private ["s9EquatableP", "cancel"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "networkFailureHandler"]
+- !private ["s9EquatableP", "networkProgressHandler"]
+- !private ["s9EquatableP", "setDelegateQueue"]
+- !private ["s9EquatableP", "setupAsDelegateFor"]
+- !private ["s9EquatableP", "start"]
+- !private ["s9EquatableP", "urlResponse"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So27FBSDKGraphRequestConnectionC", "add"]
+- !private ["So27FBSDKGraphRequestConnectionC", "cancel"]
+- ["So27FBSDKGraphRequestConnectionC", "init"]
+- !private ["So27FBSDKGraphRequestConnectionC", "setDelegateQueue"]
+- !private ["So27FBSDKGraphRequestConnectionC", "start"]
+- !private ["So27FBSDKGraphRequestConnectionC", "urlResponse"]
+- ["So35FBSDKGraphRequestConnectionDelegateP", "init"]
+- !private ["So35FBSDKGraphRequestConnectionDelegateP", "networkFailureHandler"]
+- !private ["So35FBSDKGraphRequestConnectionDelegateP", "networkProgressHandler"]
+- !private ["So35FBSDKGraphRequestConnectionDelegateP", "setupAsDelegateFor"]
+- ["12FacebookCore22GraphRequestConnectionC", "Completion"]
+- ["12FacebookCore22GraphRequestConnectionC", "Error"]
+- ["12FacebookCore22GraphRequestConnectionC", "FBSDKGraphRequestConnection"]
+- ["12FacebookCore22GraphRequestConnectionC", "GraphRequestConnectionDelegateBridge"]
+- ["12FacebookCore22GraphRequestConnectionC", "GraphRequestProtocol"]
+- ["12FacebookCore22GraphRequestConnectionC", "GraphRequestResult"]
+- ["12FacebookCore22GraphRequestConnectionC", "HTTPURLResponse"]
+- ["12FacebookCore22GraphRequestConnectionC", "Int64"]
+- ["12FacebookCore22GraphRequestConnectionC", "NetworkFailureHandler"]
+- ["12FacebookCore22GraphRequestConnectionC", "NetworkProgressHandler"]
+- ["12FacebookCore22GraphRequestConnectionC", "OperationQueue"]
+- ["12FacebookCore22GraphRequestConnectionC", "SDKRequestCompletion"]
+- ["12FacebookCore22GraphRequestConnectionC", "String"]
+- ["12FacebookCore22GraphRequestConnectionC", "Void"]
+- ["12FacebookCore22GraphRequestConnectionC", "add"]
+- ["12FacebookCore22GraphRequestConnectionC", "cancel"]
+- ["12FacebookCore22GraphRequestConnectionC", "deinit"]
+- ["12FacebookCore22GraphRequestConnectionC", "init"]
+- ["12FacebookCore22GraphRequestConnectionC", "networkFailureHandler"]
+- ["12FacebookCore22GraphRequestConnectionC", "networkHandlerQueue"]
+- ["12FacebookCore22GraphRequestConnectionC", "networkProgressHandler"]
+- !private ["12FacebookCore22GraphRequestConnectionC", "sdkConnection"]
+- !private ["12FacebookCore22GraphRequestConnectionC", "sdkDelegateBridge"]
+- ["12FacebookCore22GraphRequestConnectionC", "sdkRequestCompletion"]
+- ["12FacebookCore22GraphRequestConnectionC", "start"]
+- !private ["12FacebookCore22GraphRequestConnectionC", "type"]
+- ["12FacebookCore36GraphRequestConnectionDelegateBridgeC", "init"]
+- !private ["12FacebookCore36GraphRequestConnectionDelegateBridgeC", "networkFailureHandler"]
+- !private ["12FacebookCore36GraphRequestConnectionDelegateBridgeC", "networkProgressHandler"]
+- !private ["12FacebookCore36GraphRequestConnectionDelegateBridgeC", "setupAsDelegateFor"]
+- !private ["12FacebookCore20GraphRequestProtocolP", "Response"]
+- !private ["12FacebookCore20GraphRequestProtocolP", "sdkRequest"]
+- !private ["12FacebookCore18GraphRequestResultO", "failed"]
+- !private ["12FacebookCore18GraphRequestResultO", "success"]
+- !private ["12FacebookCore21GraphResponseProtocolP", "init"]
+- !private ["s8HashableP", "add"]
+- !private ["s8HashableP", "cancel"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "main"]
+- !private ["s8HashableP", "networkFailureHandler"]
+- !private ["s8HashableP", "networkProgressHandler"]
+- !private ["s8HashableP", "setDelegateQueue"]
+- !private ["s8HashableP", "setupAsDelegateFor"]
+- !private ["s8HashableP", "start"]
+- !private ["s8HashableP", "urlResponse"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "add"]
+- !private ["So8NSObjectC", "cancel"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "networkFailureHandler"]
+- !private ["So8NSObjectC", "networkProgressHandler"]
+- !private ["So8NSObjectC", "setDelegateQueue"]
+- !private ["So8NSObjectC", "setupAsDelegateFor"]
+- !private ["So8NSObjectC", "start"]
+- !private ["So8NSObjectC", "urlResponse"]
+- !private ["So16NSObjectProtocolP", "add"]
+- !private ["So16NSObjectProtocolP", "cancel"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "networkFailureHandler"]
+- !private ["So16NSObjectProtocolP", "networkProgressHandler"]
+- !private ["So16NSObjectProtocolP", "setDelegateQueue"]
+- !private ["So16NSObjectProtocolP", "setupAsDelegateFor"]
+- !private ["So16NSObjectProtocolP", "start"]
+- !private ["So16NSObjectProtocolP", "urlResponse"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- ["So14OperationQueueC", "main"]
+- !private ["Sq", "map"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "add"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "networkFailureHandler"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "networkProgressHandler"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setDelegateQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupAsDelegateFor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "urlResponse"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "12FacebookCore26AppEventParameterValueTypeP"
+- !private "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "So27FBSDKGraphRequestConnectionC"
+- "So35FBSDKGraphRequestConnectionDelegateP"
+- "12FacebookCore22GraphRequestConnectionC"
+- "12FacebookCore36GraphRequestConnectionDelegateBridgeC"
+- !private "12FacebookCore20GraphRequestProtocolP"
+- !private "12FacebookCore18GraphRequestResultO"
+- !private "12FacebookCore21GraphResponseProtocolP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "So14OperationQueueC"
+- !private "Sq"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFGeneric.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FacebookCore.build/unextended-module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/eligitelman/Documents/GitHub/crushd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+interface-hash: "93b052c698d12c9f782e9ad29f78adb1"
